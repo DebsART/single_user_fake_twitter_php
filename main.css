@@ -1,0 +1,55 @@
+
+/*******w******** 
+    
+    Name: Deborah Ekpeneidua
+    Date: February 8, 2024
+    Description: CRUD challenge (fake twitter)
+
+****************/
+body{
+	background-color: #565656;
+}
+form{
+	margin-top: 50px;
+	width: 70%;
+	height: 40%;
+	margin: auto;
+	background-color: #EBEBEB;
+	padding: 20px;
+	box-shadow: 5px 3px 10px black;
+	border-radius: 5px;
+}
+
+input{
+	width: 70%;
+	height: 41px;
+	border: 1px solid #B9B8B8;
+	font-size: 17px;
+}
+
+button{
+	width:25%;
+	height: 45px;
+	color: darkblue;
+	font-weight: bold;
+	border: 1px solid #B9B8B8;
+	font-size: 17px;
+}
+
+ul{
+	display: inline-block;
+	list-style-type: none;
+	width: 100%;
+	padding-left: 0px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+
+}
+
+ul li{
+	border: 1px #B9B8B8 solid;
+	padding: 5px;
+	color: darkblue;
+	width: 95%;
+	font-size: 20px;
+}
